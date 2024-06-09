@@ -1,4 +1,4 @@
-# ShetkariRaja
+# ShetkariRaja A Farm related product management
 ShetkariRaja is committed to resolving the difficulties farmers encounter when purchasing and selling crops and other items related to farming. Our goal is to provide farmers with a smooth, effective, and transparent platform so they can get the greatest discounts and assistance they require.
 
 Important characteristics:
